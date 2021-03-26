@@ -1,6 +1,6 @@
 # burc_rehberi_app
 
-A new Flutter application.
+Eski flutter baslangic projem.
 
 ## Getting Started
 
